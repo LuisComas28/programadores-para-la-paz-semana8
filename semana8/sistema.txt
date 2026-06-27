@@ -1,0 +1,9 @@
+uname -a
+Linux codespaces-f8a235 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+whoami
+codespace
+
+Es importante la información para saber que estamos administrando y como controlar
+el servidor en el que estamos, desde credenciales hasta información porque así
+tenemos un manejo adecuado y control total de este.
